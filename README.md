@@ -32,4 +32,4 @@ Este repositório reúne scripts e pequenos projetos desenvolvidos durante o apr
 
 1. Clone este repositório:
    ```bash
-   git remote set-url origin https://github.com/barbcarol-dev/python-fundamentals.git
+   git clone [https://github.com/barbcarol-dev/python-fundamentals.git](https://github.com/barbcarol-dev/python-fundamentals.git)
